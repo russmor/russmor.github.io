@@ -1,0 +1,48 @@
+*{
+	font-family: goudy, sans-serif;
+	font-size: 35px;
+	margin: 20px 0px 0px -20px;
+}
+
+Header{
+	font-size: 78px;
+	font-weight: bold;
+	color: #228b22;
+	text-shadow: 
+	-2px -2px 0 #b8860b,  
+    2px -2px 0 #b8860b,
+    -2px 2px 0 #b8860b,
+    2px 2px 0 #b8860b;
+}
+
+Body{
+	text-align: center;
+	color: #ffffff
+}
+
+html{
+	background-image: url("http://rs125.pbsrc.com/albums/p68/alongway99/St%20Patricks%20Day%20Animations/Money%20Animations/GoldDollarSgnSpinsSparklesBlack.gif~c200");
+	background-position: center;
+}
+
+li {
+	margin-left: 60px;
+	margin-right: 60px;
+	display: inline;
+	font-size: 38px;
+	text-decoration: none;
+}
+
+a{
+	color: red;
+	border: dashed;
+}
+
+Footer{
+	font-size: 14px;
+	color: grey;
+}
+
+img{
+	width: 500;
+}
